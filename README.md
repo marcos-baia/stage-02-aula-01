@@ -9,5 +9,5 @@
 
 <p>Link do Projeto</p>
 
-Arquivo do Projeto no Figma: <a href="https://www.figma.com/file/1QB3ecEiGPWwDrrjSWfY1I/Explorer-Projeto-01-Copy?fuid=877192624165005846">Explorer/Projeto 01</a>
+Arquivo do Projeto no Figma: <a href="https://www.figma.com/file/1QB3ecEiGPWwDrrjSWfY1I/Explorer-Projeto-01-Copy?fuid=877192624165005846">Explorer / Stage 02 Projeto 01</a>
 
